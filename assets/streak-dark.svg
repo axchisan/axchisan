@@ -12,7 +12,7 @@
     <rect width="470" height="3" fill="url(#acc)"/>
     <g>
       
-      <text x="78.33333333333333" y="93" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="30" font-weight="700" fill="#C9D1D9">1.026</text>
+      <text x="78.33333333333333" y="93" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="30" font-weight="700" fill="#C9D1D9">1.030</text>
       <text x="78.33333333333333" y="138" text-anchor="middle" font-family="Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#C9D1D9">Contribuciones</text>
       <text x="78.33333333333333" y="157" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#64748B">6 mar 2024 — hoy</text>
     </g><line x1="156.66666666666666" y1="46" x2="156.66666666666666" y2="164" stroke="#1E293B"/>
