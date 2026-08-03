@@ -1,0 +1,4 @@
+# Las tarjetas las escribe el workflow: no ensucian los diffs ni las estadísticas del repo.
+assets/stats-*.svg   linguist-generated=true
+assets/langs-*.svg   linguist-generated=true
+assets/streak-*.svg  linguist-generated=true

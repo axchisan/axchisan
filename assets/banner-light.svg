@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Duvan Yair Arciniegas — Desarrollador de Software">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="55%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#eef2ff"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4f46e5"/>
+      <stop offset="50%" stop-color="#0891b2"/>
+      <stop offset="100%" stop-color="#9333ea"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="70%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#4338ca"/>
+    </linearGradient>
+    <radialGradient id="blobA" cx="50%" cy="50%">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blobB" cx="50%" cy="50%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#0f172a" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <clipPath id="round"><rect width="1000" height="280" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1000" height="280" fill="url(#bg)"/>
+    <rect width="1000" height="280" fill="url(#grid)"/>
+    <ellipse cx="880" cy="60" rx="280" ry="200" fill="url(#blobA)"/>
+    <ellipse cx="640" cy="290" rx="300" ry="170" fill="url(#blobB)"/>
+
+    <rect x="0" y="0" width="1000" height="4" fill="url(#accent)"/>
+
+    <circle cx="42" cy="40" r="6" fill="#ff5f57"/>
+    <circle cx="64" cy="40" r="6" fill="#febc2e"/>
+    <circle cx="86" cy="40" r="6" fill="#28c840"/>
+    <text x="112" y="45" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#94a3b8">axchisan — zsh</text>
+
+    <text x="42" y="92" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15">
+      <tspan fill="#0891b2">~</tspan><tspan fill="#94a3b8"> $ </tspan><tspan fill="#4f46e5">whoami</tspan>
+    </text>
+
+    <text x="40" y="150" font-family="Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="48" font-weight="700" letter-spacing="-1" fill="url(#name)">Duvan Yair Arciniegas</text>
+
+    <rect x="42" y="166" width="150" height="4" rx="2" fill="url(#accent)"/>
+
+    <text x="42" y="205" font-family="Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="20" font-weight="600" fill="#1e293b">Desarrollador de Software · Full-Stack</text>
+    <text x="42" y="234" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14.5" fill="#0e7490">Backend · Mobile · Web · Automatización e IA</text>
+
+    <rect x="42" y="248" width="9" height="16" fill="#0891b2">
+      <animate attributeName="opacity" values="1;1;0;0;1" dur="1.2s" repeatCount="indefinite"/>
+    </rect>
+
+    <g transform="translate(838,214)">
+      <rect x="-4" y="-22" width="130" height="32" rx="16" fill="#0891b2" fill-opacity="0.10" stroke="#0891b2" stroke-opacity="0.35"/>
+      <text x="61" y="0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="600" fill="#0e7490">@axchisan</text>
+    </g>
+
+    <text x="958" y="45" text-anchor="end" font-family="Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="13" fill="#94a3b8">Bogotá · Colombia</text>
+
+    <rect x="0.5" y="0.5" width="999" height="279" rx="18" fill="none" stroke="#e2e8f0"/>
+  </g>
+</svg>

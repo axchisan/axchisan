@@ -1,0 +1,49 @@
+name: Actualizar estadísticas
+
+on:
+  schedule:
+    # Dos veces al día (05:17 y 17:17 UTC). Las horas en punto están saturadas
+    # en la cola de Actions y el job se retrasa.
+    - cron: "17 5,17 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/generate-stats.mjs"
+      - ".github/workflows/stats.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stats
+  cancel-in-progress: true
+
+jobs:
+  generar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Generar tarjetas SVG
+        env:
+          # STATS_TOKEN es un PAT opcional con permiso de lectura sobre repos
+          # privados: sin él, las cifras solo cubren la actividad pública.
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+        run: node scripts/generate-stats.mjs
+
+      - name: Commitear si cambiaron
+        run: |
+          if [ -z "$(git status --porcelain assets)" ]; then
+            echo "Sin cambios en las estadísticas."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git commit -m "chore: actualizar estadísticas del perfil"
+          git push

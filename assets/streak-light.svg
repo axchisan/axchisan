@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="200" viewBox="0 0 470 200" role="img" aria-label="Racha de contribuciones">
+  <defs>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#818CF8"/>
+      <stop offset="50%" stop-color="#0891B2"/>
+      <stop offset="100%" stop-color="#9333EA"/>
+    </linearGradient>
+    <clipPath id="cut"><rect width="470" height="200" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#cut)">
+    <rect width="470" height="200" fill="#FFFFFF"/>
+    <rect width="470" height="3" fill="url(#acc)"/>
+    <g>
+      
+      <text x="78.33333333333333" y="93" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="30" font-weight="700" fill="#334155">1.018</text>
+      <text x="78.33333333333333" y="138" text-anchor="middle" font-family="Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#334155">Contribuciones</text>
+      <text x="78.33333333333333" y="157" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#94A3B8">6 mar 2024 — hoy</text>
+    </g><line x1="156.66666666666666" y1="46" x2="156.66666666666666" y2="164" stroke="#E2E8F0"/>
+<g>
+      <circle cx="235" cy="82" r="34" fill="none" stroke="#0891B2" stroke-width="2.5" stroke-opacity=".8"/>
+      <circle cx="235" cy="82" r="34" fill="none" stroke="#9333EA" stroke-width="2.5" stroke-dasharray="52 162" stroke-linecap="round" transform="rotate(-90 235 82)"/>
+      <text x="235" y="93" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="30" font-weight="700" fill="#0891B2">1</text>
+      <text x="235" y="138" text-anchor="middle" font-family="Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#0891B2">Racha actual</text>
+      <text x="235" y="157" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#94A3B8">2 ago 2026</text>
+    </g><line x1="313.3333333333333" y1="46" x2="313.3333333333333" y2="164" stroke="#E2E8F0"/>
+<g>
+      
+      <text x="391.66666666666663" y="93" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="30" font-weight="700" fill="#334155">13</text>
+      <text x="391.66666666666663" y="138" text-anchor="middle" font-family="Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#334155">Racha más larga</text>
+      <text x="391.66666666666663" y="157" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#94A3B8">19 sep 2025 — 1 oct 2025</text>
+    </g>
+    <rect x=".5" y=".5" width="469" height="199" rx="14" fill="none" stroke="#E2E8F0"/>
+  </g>
+</svg>
