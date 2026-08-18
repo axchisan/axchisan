@@ -12,16 +12,16 @@
     <rect width="470" height="3" fill="url(#acc)"/>
     <g>
       
-      <text x="78.33333333333333" y="93" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="30" font-weight="700" fill="#C9D1D9">1.074</text>
+      <text x="78.33333333333333" y="93" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="30" font-weight="700" fill="#C9D1D9">1.075</text>
       <text x="78.33333333333333" y="138" text-anchor="middle" font-family="Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#C9D1D9">Contribuciones</text>
       <text x="78.33333333333333" y="157" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#64748B">6 mar 2024 — hoy</text>
     </g><line x1="156.66666666666666" y1="46" x2="156.66666666666666" y2="164" stroke="#1E293B"/>
 <g>
       <circle cx="235" cy="82" r="34" fill="none" stroke="#22D3EE" stroke-width="2.5" stroke-opacity=".8"/>
       <circle cx="235" cy="82" r="34" fill="none" stroke="#C084FC" stroke-width="2.5" stroke-dasharray="52 162" stroke-linecap="round" transform="rotate(-90 235 82)"/>
-      <text x="235" y="93" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="30" font-weight="700" fill="#22D3EE">1</text>
+      <text x="235" y="93" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="30" font-weight="700" fill="#22D3EE">2</text>
       <text x="235" y="138" text-anchor="middle" font-family="Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#22D3EE">Racha actual</text>
-      <text x="235" y="157" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#64748B">17 ago 2026</text>
+      <text x="235" y="157" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#64748B">17 ago 2026 — 18 ago 2026</text>
     </g><line x1="313.3333333333333" y1="46" x2="313.3333333333333" y2="164" stroke="#1E293B"/>
 <g>
       
