@@ -16,7 +16,7 @@
     <g>
       <circle cx="30" cy="92" r="3" fill="#22D3EE"/>
       <text x="44" y="96" font-family="Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="13.5" fill="#C9D1D9">Commits totales</text>
-      <text x="444" y="96" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#22D3EE">872</text>
+      <text x="444" y="96" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#22D3EE">871</text>
     </g>
 <g>
       <circle cx="30" cy="119" r="3" fill="#C084FC"/>
@@ -26,7 +26,7 @@
 <g>
       <circle cx="30" cy="146" r="3" fill="#22D3EE"/>
       <text x="44" y="150" font-family="Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="13.5" fill="#C9D1D9">Repositorios propios</text>
-      <text x="444" y="150" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#22D3EE">43</text>
+      <text x="444" y="150" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#22D3EE">44</text>
     </g>
 <g>
       <circle cx="30" cy="173" r="3" fill="#C084FC"/>
