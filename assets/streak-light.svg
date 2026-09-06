@@ -19,9 +19,9 @@
 <g>
       <circle cx="235" cy="82" r="34" fill="none" stroke="#0891B2" stroke-width="2.5" stroke-opacity=".8"/>
       <circle cx="235" cy="82" r="34" fill="none" stroke="#9333EA" stroke-width="2.5" stroke-dasharray="52 162" stroke-linecap="round" transform="rotate(-90 235 82)"/>
-      <text x="235" y="93" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="30" font-weight="700" fill="#0891B2">2</text>
+      <text x="235" y="93" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="30" font-weight="700" fill="#0891B2">0</text>
       <text x="235" y="138" text-anchor="middle" font-family="Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#0891B2">Racha actual</text>
-      <text x="235" y="157" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#94A3B8">3 sep 2026 — 4 sep 2026</text>
+      <text x="235" y="157" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#94A3B8">sin racha activa</text>
     </g><line x1="313.3333333333333" y1="46" x2="313.3333333333333" y2="164" stroke="#E2E8F0"/>
 <g>
       
