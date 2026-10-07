@@ -31,7 +31,7 @@
 <g>
       <circle cx="30" cy="173" r="3" fill="#9333EA"/>
       <text x="44" y="177" font-family="Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="13.5" fill="#334155">Estrellas recibidas</text>
-      <text x="444" y="177" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#0891B2">5</text>
+      <text x="444" y="177" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#0891B2">3</text>
     </g>
 <g>
       <circle cx="30" cy="200" r="3" fill="#0891B2"/>
