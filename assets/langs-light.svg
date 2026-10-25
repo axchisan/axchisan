@@ -14,17 +14,17 @@
     <text x="26" y="42" font-family="Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="17" font-weight="700" fill="#0891B2">Lenguajes más usados</text>
     <text x="26" y="63" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#94A3B8">sobre código propio · sin dependencias versionadas</text>
     <rect x="26" y="82" width="418" height="11" rx="5.5" fill="#E2E8F0"/>
-    <g clip-path="url(#barclip)"><rect x="26.0" y="82" width="169.2" height="11" fill="#3178c6"><animate attributeName="width" from="0" to="169.2" dur=".8s" begin="0.15s" fill="freeze"/></rect><rect x="195.2" y="82" width="64.6" height="11" fill="#00B4AB"><animate attributeName="width" from="0" to="64.6" dur=".8s" begin="0.22s" fill="freeze"/></rect><rect x="259.8" y="82" width="33.5" height="11" fill="#4F5D95"><animate attributeName="width" from="0" to="33.5" dur=".8s" begin="0.29s" fill="freeze"/></rect><rect x="293.3" y="82" width="30.3" height="11" fill="#355570"><animate attributeName="width" from="0" to="30.3" dur=".8s" begin="0.36s" fill="freeze"/></rect><rect x="323.6" y="82" width="29.2" height="11" fill="#3572A5"><animate attributeName="width" from="0" to="29.2" dur=".8s" begin="0.43s" fill="freeze"/></rect><rect x="352.8" y="82" width="23.1" height="11" fill="#e34c26"><animate attributeName="width" from="0" to="23.1" dur=".8s" begin="0.50s" fill="freeze"/></rect><rect x="375.9" y="82" width="20.5" height="11" fill="#b07219"><animate attributeName="width" from="0" to="20.5" dur=".8s" begin="0.57s" fill="freeze"/></rect><rect x="396.4" y="82" width="18.7" height="11" fill="#663399"><animate attributeName="width" from="0" to="18.7" dur=".8s" begin="0.64s" fill="freeze"/></rect></g>
+    <g clip-path="url(#barclip)"><rect x="26.0" y="82" width="168.1" height="11" fill="#3178c6"><animate attributeName="width" from="0" to="168.1" dur=".8s" begin="0.15s" fill="freeze"/></rect><rect x="194.1" y="82" width="64.2" height="11" fill="#00B4AB"><animate attributeName="width" from="0" to="64.2" dur=".8s" begin="0.22s" fill="freeze"/></rect><rect x="258.3" y="82" width="33.3" height="11" fill="#4F5D95"><animate attributeName="width" from="0" to="33.3" dur=".8s" begin="0.29s" fill="freeze"/></rect><rect x="291.6" y="82" width="30.8" height="11" fill="#3572A5"><animate attributeName="width" from="0" to="30.8" dur=".8s" begin="0.36s" fill="freeze"/></rect><rect x="322.4" y="82" width="30.1" height="11" fill="#355570"><animate attributeName="width" from="0" to="30.1" dur=".8s" begin="0.43s" fill="freeze"/></rect><rect x="352.5" y="82" width="22.9" height="11" fill="#e34c26"><animate attributeName="width" from="0" to="22.9" dur=".8s" begin="0.50s" fill="freeze"/></rect><rect x="375.4" y="82" width="20.4" height="11" fill="#b07219"><animate attributeName="width" from="0" to="20.4" dur=".8s" begin="0.57s" fill="freeze"/></rect><rect x="395.8" y="82" width="18.6" height="11" fill="#663399"><animate attributeName="width" from="0" to="18.6" dur=".8s" begin="0.64s" fill="freeze"/></rect></g>
     <defs><clipPath id="barclip"><rect x="26" y="82" width="418" height="11" rx="5.5"/></clipPath></defs>
     <g>
       <circle cx="31" cy="124" r="5" fill="#3178c6"/>
       <text x="44" y="128" font-family="Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="13" fill="#334155">TypeScript</text>
-      <text x="222" y="128" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#94A3B8">40.5%</text>
+      <text x="222" y="128" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#94A3B8">40.2%</text>
     </g>
 <g>
       <circle cx="249" cy="124" r="5" fill="#00B4AB"/>
       <text x="262" y="128" font-family="Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="13" fill="#334155">Dart</text>
-      <text x="440" y="128" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#94A3B8">15.5%</text>
+      <text x="440" y="128" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#94A3B8">15.4%</text>
     </g>
 <g>
       <circle cx="31" cy="150" r="5" fill="#4F5D95"/>
@@ -32,14 +32,14 @@
       <text x="222" y="154" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#94A3B8">8.0%</text>
     </g>
 <g>
-      <circle cx="249" cy="150" r="5" fill="#355570"/>
-      <text x="262" y="154" font-family="Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="13" fill="#334155">GDScript</text>
-      <text x="440" y="154" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#94A3B8">7.2%</text>
+      <circle cx="249" cy="150" r="5" fill="#3572A5"/>
+      <text x="262" y="154" font-family="Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="13" fill="#334155">Python</text>
+      <text x="440" y="154" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#94A3B8">7.4%</text>
     </g>
 <g>
-      <circle cx="31" cy="176" r="5" fill="#3572A5"/>
-      <text x="44" y="180" font-family="Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="13" fill="#334155">Python</text>
-      <text x="222" y="180" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#94A3B8">7.0%</text>
+      <circle cx="31" cy="176" r="5" fill="#355570"/>
+      <text x="44" y="180" font-family="Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="13" fill="#334155">GDScript</text>
+      <text x="222" y="180" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#94A3B8">7.2%</text>
     </g>
 <g>
       <circle cx="249" cy="176" r="5" fill="#e34c26"/>
@@ -54,7 +54,7 @@
 <g>
       <circle cx="249" cy="202" r="5" fill="#663399"/>
       <text x="262" y="206" font-family="Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="13" fill="#334155">CSS</text>
-      <text x="440" y="206" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#94A3B8">4.5%</text>
+      <text x="440" y="206" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#94A3B8">4.4%</text>
     </g>
     <rect x=".5" y=".5" width="469" height="261" rx="14" fill="none" stroke="#E2E8F0"/>
   </g>
