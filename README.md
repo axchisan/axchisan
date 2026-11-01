@@ -13,6 +13,31 @@
 
 ---
 
+<table>
+<tr>
+<td width="140" align="center">
+  <a href="https://github.com/axchisan/lost-and-prompt"><img src="https://raw.githubusercontent.com/axchisan/lost-and-prompt/main/docs/diseno/icono/icono-caja-1024.png" width="112" alt="Ícono de Lost &amp; Prompt"></a>
+</td>
+<td>
+
+### [Lost & Prompt](https://github.com/axchisan/lost-and-prompt) — mi proyecto principal
+
+Todas tus sesiones de **Claude Code**, de todas tus carpetas, en un solo lugar: búscalas por lo que
+se dijo en ellas, reanúdalas en tu terminal con un clic y organízalas. Gratis y de código abierto
+para **macOS, Windows y Linux**.
+
+`SwiftUI` `Rust` `Tauri` `React` · actualizaciones automáticas firmadas · Homebrew y Scoop
+
+<a href="https://github.com/axchisan/lost-and-prompt/releases/latest"><img alt="Última versión" src="https://img.shields.io/github/v/release/axchisan/lost-and-prompt?label=versi%C3%B3n&color=2f6fe4"></a>
+<a href="https://github.com/axchisan/lost-and-prompt/releases"><img alt="Descargas" src="https://img.shields.io/github/downloads/axchisan/lost-and-prompt/total?label=descargas&color=2f6fe4"></a>
+<a href="https://lostandprompt.axchisan.com"><img alt="Sitio web" src="https://img.shields.io/badge/sitio-lostandprompt.axchisan.com-2f6fe4"></a>
+
+</td>
+</tr>
+</table>
+
+---
+
 ## Sobre mí
 
 Desarrollador de software **autodidacta**, tecnólogo en Análisis y Desarrollo de Software (SENA).
@@ -116,23 +141,49 @@ marca:      Axchi
 
 ## Proyectos destacados
 
+**Producto y sistemas completos**
+
 | Proyecto | Qué es | Stack |
 |---|---|---|
-| **[Quanta](https://github.com/axchisan/quanta2)** | Juego educativo de Física y Química con IA generativa, multijugador en tiempo real y editor de retos. Monorepo pnpm + Turborepo. | `TypeScript` `Next.js 15` `Phaser 3` `Colyseus` `Supabase` |
-| **[Gestión de Inventario SENA](https://github.com/axchisan/GestionInventarioSENA)** | Sistema integral de inventario para ambientes de formación: app móvil + API + control de préstamos y mantenimientos. | `Flutter` `FastAPI` `PostgreSQL` |
-| **[Carnets Virtuales SENA](https://github.com/axchisan/AppGestionCarnetsSENA)** | Carnet digital con código de barras, funcional offline, que interopera con una app de escritorio en Java para validar el ingreso. | `Flutter` `Java` `PostgreSQL` |
-| **[Bitácoras SENA](https://github.com/axchisan/bitacoras-sena)** | Automatiza las bitácoras de etapa productiva: lee work items de Azure DevOps, redacta con IA y genera el Excel oficial. | `Python` `FastAPI` `Azure DevOps API` `IA` |
-| **[media-worker](https://github.com/axchisan/media-worker)** | Microservicio de medios: texto → voz con timing por palabra y render de vídeo vertical 1080×1920 con subtítulos karaoke. | `Python` `FFmpeg` `edge-tts` `Docker` |
-| **[Fudoshin Ryu](https://github.com/axchisan/Fudoshin-Ryu)** | Sitio oficial de un dojo de Shotokan Karate-Do afiliado a la JKA, con tres sedes reales en Santander. | `TypeScript` `Next.js` `Tailwind` |
+| **[Calculadora de Gastos](https://github.com/axchisan/calculadora-gastos)** · [en vivo](https://gastos.axchisan.com) | Finanzas personales mes a mes: presupuesto, deudas, ahorro y transporte con festivos de Colombia. Web, Android y macOS sincronizados. | `Flutter` `Spring Boot 3` `AWS Lambda` `Terraform` `PostgreSQL` |
+| **[Quanta](https://github.com/axchisan/quanta2)** | Juego educativo de Física y Química con IA generativa y multijugador en tiempo real. Monorepo Turborepo. | `Next.js 15` `Phaser 3` `Colyseus` `Supabase` |
+| **Odontario** · *repositorio privado* | SaaS multi-tenant para consultorios odontológicos: agenda, pacientes, antecedentes clínicos y sitio público por clínica. Reescritura desde cero de un sistema que estuvo en producción. CI con cuatro flujos, pruebas de extremo a extremo y previsualización por rama. | `Next.js` `Drizzle` `Better Auth` `Sentry` `Playwright` |
+| **[Gestión de Inventario SENA](https://github.com/axchisan/GestionInventarioSENA)** | Inventario de ambientes de formación: app móvil con escaneo QR, préstamos, mantenimientos y reportes. | `Flutter` `FastAPI` `PostgreSQL` |
 
-<sub>También tengo proyectos entregados a clientes reales (odontología, restaurantes, hotelería), automatizaciones internas y experimentos con motores de videojuegos. Hay más en la pestaña <a href="https://github.com/axchisan?tab=repositories">repositories</a>.</sub>
+**En producción para negocios reales**
+
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| **[axchisan.com](https://github.com/axchisan/axchisan.com)** · [en vivo](https://axchisan.com) | Mi estudio, Axchi: soluciones por sector con demos funcionando, precios a la vista y panel con CRM. | `Next.js 16` `Prisma` `Neon` `R2` `Resend` |
+| **[Jabones Mari](https://github.com/axchisan/jabones-mari)** · [en vivo](https://jabonesmari.shop) | Tienda de jabones artesanales en Bogotá: catálogo administrable, carrito, pedidos por WhatsApp y notificaciones push. | `Next.js 16` `Drizzle` `Better Auth` |
+| **[Magic H4nds](https://github.com/axchisan/magichands)** · [en vivo](https://magichands.axchisan.com) | Web y catálogo para un emprendimiento de crochet en Vélez, Santander. | `Next.js` `Tailwind` |
+| **[Fudoshin Ryu](https://github.com/axchisan/Fudoshin-Ryu)** | Sitio oficial de un dojo de Shotokan Karate-Do afiliado a la JKA, con tres sedes en Santander. | `Next.js` `Tailwind` |
+
+**Herramientas abiertas** — gratis, sin anuncios y para quien las necesite
+
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| **[Filtro de llamadas](https://github.com/axchisan/filtro-llamadas)** | Bloquea llamadas spam en Android sin anuncios, sin cuentas y sin internet. | `Kotlin` `Android` |
+| **[Desliza](https://github.com/axchisan/desliza)** | Limpia la galería del celular deslizando como en Tinder. Nada sale del teléfono. | `Kotlin` `Compose` |
+| **[Conseguir empleo](https://github.com/axchisan/conseguir-empleo)** | Kit para buscar trabajo con Claude Code: ofertas, hoja de vida adaptada y seguimiento de postulaciones. | `Python` `Claude Code` |
+| **[Spotify Voice DJ](https://github.com/axchisan/spotify-voice-dj)** | DJ por voz para Spotify en macOS con un modelo local. Sin nube. | `Swift` `Python` `LM Studio` |
+
+**Automatización e IA**
+
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| **[Bitácoras SENA](https://github.com/axchisan/bitacoras-sena)** | Lee work items de Azure DevOps, redacta con IA y genera el Excel oficial de etapa productiva. | `FastAPI` `React` `Azure DevOps API` |
+| **[Tecnobichos](https://github.com/axchisan/tecnobichos)** + **[media-worker](https://github.com/axchisan/media-worker)** | Canal de shorts tech automatizado: guion, voz, render vertical con subtítulos karaoke y publicación en YouTube e Instagram. | `n8n` `FFmpeg` `edge-tts` `Docker` |
+
+<sub>El resto de la pestaña <a href="https://github.com/axchisan?tab=repositories">repositories</a> es mi trayectoria: desde el primer CRUD en Java y los proyectos PHP del SENA hasta lo de hoy. Lo dejo a la vista a propósito.</sub>
 
 ---
 
 ## Ahora mismo
 
 ```text
-▸ Construyendo   Quanta — juego educativo con IA y multiplayer
+▸ Construyendo   Lost & Prompt — llevándolo a winget, AUR y Flathub
+▸ En paralelo    Odontario — SaaS para consultorios odontológicos
 ▸ Aprendiendo    arquitectura de microservicios, observabilidad y AWS
 ▸ Explorando     agentes de IA aplicados a flujos de trabajo reales
 ▸ Abierto a      colaboraciones, freelance y proyectos con propósito
