@@ -47,8 +47,9 @@ No me caso con un stack. Me interesa el problema: si hay que levantar un microse
 
 ```yaml
 rol:        Desarrollador de Software · Full-Stack
-enfoque:    Backend distribuido · Apps multiplataforma · Automatización e IA
-actualidad: microservicios Java/Spring Boot para core financiero (CI/CD en Azure DevOps)
+enfoque:    Apps multiplataforma · Backend · Automatización e IA
+actualidad: desarrollador Flutter full stack en Migozz (migozz.com) — Flutter, Firebase, Google Cloud, FastAPI
+antes:      microservicios Java/Spring Boot sobre AWS para un core asegurador (Linktic)
 paralelo:   producto propio — juegos educativos, workers de medios, herramientas internas
 ubicacion:  Bogotá, Colombia 🇨🇴
 idiomas:    [Español (nativo), Inglés (B1)]
